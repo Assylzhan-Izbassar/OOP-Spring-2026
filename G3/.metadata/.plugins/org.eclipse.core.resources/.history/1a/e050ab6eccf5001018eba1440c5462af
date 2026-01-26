@@ -1,0 +1,14 @@
+package test;
+
+public class TestBinarySearch {
+
+	public static void main(String[] args) {
+		int[] arr = {2, 3, 4, 6, 7, 12};
+		
+		BinarySearch bs = new BinarySearch(arr);
+		
+		System.out.println(bs.search(12));
+
+	}
+
+}

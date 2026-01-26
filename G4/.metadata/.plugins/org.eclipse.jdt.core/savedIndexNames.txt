@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/assylzhan/Desktop/KBTU/OOP-Spring-2026/G4/.metadata/.plugins/org.eclipse.jdt.core
+453264732.index
+1480112439.index
+1865797976.index

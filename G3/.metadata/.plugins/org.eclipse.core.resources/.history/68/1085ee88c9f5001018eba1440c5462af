@@ -1,0 +1,11 @@
+package test;
+
+public class ConditionalStatement {
+
+	public static void main(String[] args) {
+		/*
+		 * Task: we have grading -> convert it letter grading.
+		 * */
+	}
+
+}

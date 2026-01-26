@@ -1,0 +1,22 @@
+package task1;
+
+import java.util.Scanner;
+
+public class FirstTest {
+	public static void main(String[] args) {
+		/*
+		 * 1. input / output
+		 * 2. variable, types of them
+		 * 3. conditional statements
+		 * 4. loops
+		 * 5. functions / methods
+		 * 6. data structures: arrays, vectors
+		 * 7. basics usage of all of that topics.
+		 * */
+		Scanner scan = new Scanner(System.in);
+		String name = scan.nextLine();
+		
+		System.out.println("Hello, KBTU Students!");
+		System.out.print("Java is the core PL of OOP!");
+	}
+}

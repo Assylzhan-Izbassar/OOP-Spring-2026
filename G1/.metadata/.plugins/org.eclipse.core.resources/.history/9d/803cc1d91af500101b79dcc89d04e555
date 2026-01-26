@@ -1,0 +1,33 @@
+package test;
+
+public class TestClass {
+
+	public static void main(String[] args) {
+		
+		TestClass ts;
+		
+		int x = 5;
+		int y = 2 * x;
+		
+		x = 2 * x++ + 5; // x = 6, x = 15
+		System.out.println("Post-increment " + x);
+		
+		if (x >= 10) {
+			x *= 2; 
+		} else {
+			x--;
+		}
+		
+		x = ++x * 2 + 10; // x = 16 * 2 = 32 + 10
+		System.out.println("Pre-increment " + x);
+		
+		
+		
+		
+		System.out.println(5 * y);
+		
+		System.out.println("Hello, Java!");
+		System.out.print("Our first introduction to OOP!");
+	}
+
+}

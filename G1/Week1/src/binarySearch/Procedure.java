@@ -1,0 +1,33 @@
+package binarySearch;
+
+import java.util.Vector;
+
+public class Procedure {
+
+	public static void main(String[] args) {
+//		Vector<Integer> arr = new Vector<Integer>();
+		int[] arr = {10, 21, 54, 65, 70};
+		int target = 70;
+		int n = 5;
+		
+		int l = 0;
+		int r = n;
+		
+		int result = -1;
+		
+		while(l < r) {
+			int mid = l + (r - l) / 2;
+			
+			if (arr[mid] == target) {
+				result = mid;
+				break;
+			} else if (arr[mid] > target) {
+				r = mid;
+			} else {
+				l = mid + 1;
+			}
+		}
+		System.out.println(result);
+	}
+
+}

@@ -1,0 +1,12 @@
+package binarySearch;
+
+import java.util.Vector;
+
+public class Procedure {
+
+	public static void main(String[] args) {
+		Vector<Int> arr = new Vector<Int>();
+
+	}
+
+}

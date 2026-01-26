@@ -1,0 +1,10 @@
+package task1;
+
+public class ArrayLoop {
+
+	public static void main(String[] args) {
+		int[] arr = new int[10];
+
+	}
+
+}

@@ -1,0 +1,28 @@
+package test;
+
+import java.util.Scanner;
+
+public class ConditionalStatement {
+
+	public static void main(String[] args) {
+		/*
+		 * Task: we have grading -> convert it letter grading.
+		 * Input: 94, Output: A
+		 * */
+		Scanner scan = new Scanner(System.in);
+		
+		int grade = Integer.parseInt(scan.nextLine());
+		
+		
+		if () {
+			
+		} else if () {
+			
+		} else {
+			
+		}
+		
+		scan.close();
+	}
+
+}

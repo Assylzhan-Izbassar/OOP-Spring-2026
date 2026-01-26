@@ -1,0 +1,35 @@
+package task1;
+
+import java.util.Scanner;
+
+public class ConditionalStatement {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		int x = scan.nextInt();
+		
+		switch(x) {
+		case 1:
+			System.out.println("X is 1");
+			break;
+		default:
+			System.out.println("X is ___");
+			break;
+		}
+		
+		int y = (x == 10) ? 2 * x : x / 2;
+		
+		if (x >= 10 && x <= 20) {
+			System.out.println("X is between 10 and 20.");
+		} else if (x == 2) {
+			System.out.println("X is 2--");
+		} else {
+			System.out.println("X is ---");
+		}
+		
+		scan.close();
+
+	}
+
+}

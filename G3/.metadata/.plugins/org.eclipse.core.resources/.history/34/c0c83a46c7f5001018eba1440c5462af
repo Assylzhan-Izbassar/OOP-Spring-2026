@@ -1,0 +1,9 @@
+package test;
+
+public class TestClass {
+	public static void main(String[] args) {
+		// 0. input / output
+		// 1. variables
+		System.out.print("Hello, KBTU Students!");
+	}
+}

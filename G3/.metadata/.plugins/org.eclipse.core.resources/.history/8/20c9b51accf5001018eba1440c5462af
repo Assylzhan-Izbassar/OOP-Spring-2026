@@ -1,0 +1,7 @@
+package test;
+
+public class BinarySearch {
+	int[] arr;
+	int l = 0;
+	int r = arr.length;
+}

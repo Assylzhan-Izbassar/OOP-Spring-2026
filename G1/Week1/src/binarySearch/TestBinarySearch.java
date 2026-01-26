@@ -1,0 +1,17 @@
+package binarySearch;
+
+public class TestBinarySearch {
+
+	public static void main(String[] args) {
+		int[] arr = {10, 21, 54, 65, 70};
+		int n = 5;
+
+		int target = 21;
+		
+		BinarySearch bs = new BinarySearch(arr, n);
+		
+		System.out.println(bs.search(target));
+
+	}
+
+}

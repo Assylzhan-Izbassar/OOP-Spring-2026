@@ -1,0 +1,21 @@
+package firstTest;
+
+import java.util.Scanner;
+
+public class ConditionalTest {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		int grade = Integer.parseInt(scan.nextLine());
+		
+		if () {
+			
+		} else if () {
+			
+		} else {
+		
+		}
+		scan.close();
+	}
+
+}

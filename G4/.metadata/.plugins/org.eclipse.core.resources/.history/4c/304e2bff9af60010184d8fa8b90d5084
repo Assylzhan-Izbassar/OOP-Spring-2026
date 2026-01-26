@@ -1,0 +1,33 @@
+package task1;
+
+import java.util.Scanner;
+
+public class ConditionalStatement {
+
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		int x = scan.nextInt();
+		
+		switch(x) {
+		case 1:
+			System.out.println("X is 1");
+			break;
+		default:
+			System.out.println("X is ___");
+			break;
+		}
+		
+		if (x == 1) {
+			System.out.println("X is 1--");
+		} else if (x == 2) {
+			System.out.println("X is 2--");
+		} else {
+			System.out.println("X is ---");
+		}
+		
+		scan.close();
+
+	}
+
+}
