@@ -1,9 +1,0 @@
-package test;
-
-public class LoopArrayTest {
-
-	public static void main(String[] args) {
-		int[] arr = {59, 30, 102, 385, 32};
-	}
-
-}
