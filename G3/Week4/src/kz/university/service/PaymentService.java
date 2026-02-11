@@ -19,6 +19,7 @@ public class PaymentService {
 			System.out.println(p.getClass().getName().contains("Teacher"));
 			
 			if (p.getClass().getName().contains("Person")) {
+//			if (p instanceof Person) {
 				salary = ((Teacher) p).calcSalary(bonus);
 			} else {
 				salary = p.calcSalary();
