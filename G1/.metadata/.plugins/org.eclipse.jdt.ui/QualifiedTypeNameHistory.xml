@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="kz.university.model.Person"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="l6.logistics.model.FeatureType"/>
 </qualifiedTypeNameHistroy>

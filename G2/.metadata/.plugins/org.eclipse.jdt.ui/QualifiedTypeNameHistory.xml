@@ -5,4 +5,5 @@
     <fullyQualifiedTypeName name="kz.university.model.Attendance"/>
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="l6.logistics.model.Parcel"/>
 </qualifiedTypeNameHistroy>
