@@ -3,4 +3,6 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="kz.university.model.Student"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="l6.logistic.helper.Message"/>
+    <fullyQualifiedTypeName name="l6.logistic.model.Parcel"/>
 </qualifiedTypeNameHistroy>
