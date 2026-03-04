@@ -5,4 +5,9 @@
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="kz.university.model.Spec"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="l6.logistic.helper.Message"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="l6.logistic.model.Parcel"/>
+    <fullyQualifiedTypeName name="l6.logistic.service.ShippingProcessor"/>
+    <fullyQualifiedTypeName name="l7.interfaces.model.Payment"/>
 </qualifiedTypeNameHistroy>

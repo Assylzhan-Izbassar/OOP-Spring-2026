@@ -5,4 +5,5 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="l6.logistic.helper.Message"/>
     <fullyQualifiedTypeName name="l6.logistic.model.Parcel"/>
+    <fullyQualifiedTypeName name="l7.interfaces.model.Runnable"/>
 </qualifiedTypeNameHistroy>
