@@ -3,4 +3,5 @@
     <fullyQualifiedTypeName name="kz.university.model.Person"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
     <fullyQualifiedTypeName name="l6.logistics.model.FeatureType"/>
+    <fullyQualifiedTypeName name="l8.interfaces.model.Checkout"/>
 </qualifiedTypeNameHistroy>

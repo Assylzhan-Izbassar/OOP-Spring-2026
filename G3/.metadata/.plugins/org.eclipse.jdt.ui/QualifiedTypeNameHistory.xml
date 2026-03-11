@@ -6,4 +6,7 @@
     <fullyQualifiedTypeName name="l6.logistic.helper.Message"/>
     <fullyQualifiedTypeName name="l6.logistic.model.Parcel"/>
     <fullyQualifiedTypeName name="l7.interfaces.model.Runnable"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="l8.interfaces.contract.IBird"/>
+    <fullyQualifiedTypeName name="l8.interfaces.model.OuterClass.InnerClass"/>
 </qualifiedTypeNameHistroy>

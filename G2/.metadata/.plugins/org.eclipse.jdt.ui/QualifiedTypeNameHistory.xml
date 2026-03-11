@@ -6,4 +6,5 @@
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
     <fullyQualifiedTypeName name="l6.logistics.model.Parcel"/>
+    <fullyQualifiedTypeName name="l8.interfaces.helper.SendGridProvider"/>
 </qualifiedTypeNameHistroy>
