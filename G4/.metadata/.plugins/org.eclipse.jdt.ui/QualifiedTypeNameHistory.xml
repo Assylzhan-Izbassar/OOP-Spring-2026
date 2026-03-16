@@ -10,4 +10,5 @@
     <fullyQualifiedTypeName name="l6.logistic.model.Parcel"/>
     <fullyQualifiedTypeName name="l6.logistic.service.ShippingProcessor"/>
     <fullyQualifiedTypeName name="l7.interfaces.model.Payment"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
