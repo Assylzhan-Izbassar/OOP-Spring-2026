@@ -3,6 +3,10 @@
 	<section name="java.lang.Class">
 		<item key="replaceBarOpen" value="false"/>
 		<list key="findhistory">
+			<item value="get("/>
+			<item value="get"/>
+			<item value="add("/>
+			<item value="ConcurrentModificationException"/>
 			<item value="clone()"/>
 			<item value="out"/>
 			<item value="in"/>
