@@ -10,4 +10,7 @@
     <fullyQualifiedTypeName name="l8.interfaces.model.OuterClass.InnerClass"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
     <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="l11.exceptions.service.OrderService"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
 </qualifiedTypeNameHistroy>
