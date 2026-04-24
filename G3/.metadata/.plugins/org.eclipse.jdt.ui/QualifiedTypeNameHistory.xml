@@ -13,4 +13,10 @@
     <fullyQualifiedTypeName name="l11.exceptions.service.OrderService"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="pattern.DrinkFactory"/>
+    <fullyQualifiedTypeName name="model.DrinkType"/>
+    <fullyQualifiedTypeName name="pattern.Observer"/>
+    <fullyQualifiedTypeName name="model.Logger"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="pattern.OrderManager"/>
 </qualifiedTypeNameHistroy>

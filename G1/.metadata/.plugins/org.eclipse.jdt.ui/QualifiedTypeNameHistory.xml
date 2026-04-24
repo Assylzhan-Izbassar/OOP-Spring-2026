@@ -10,4 +10,9 @@
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
     <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="pattern.DrinkFactory"/>
+    <fullyQualifiedTypeName name="model.DrinkType"/>
+    <fullyQualifiedTypeName name="pattern.Observer"/>
+    <fullyQualifiedTypeName name="model.Logger"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

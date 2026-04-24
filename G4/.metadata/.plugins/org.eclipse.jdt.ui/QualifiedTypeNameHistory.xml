@@ -14,4 +14,10 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.util.Objects"/>
     <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="pattern.DrinkFactory"/>
+    <fullyQualifiedTypeName name="model.DrinkType"/>
+    <fullyQualifiedTypeName name="pattern.Observer"/>
+    <fullyQualifiedTypeName name="model.Logger"/>
+    <fullyQualifiedTypeName name="service.OrderManager"/>
+    <fullyQualifiedTypeName name="service.DeliveryService"/>
 </qualifiedTypeNameHistroy>
