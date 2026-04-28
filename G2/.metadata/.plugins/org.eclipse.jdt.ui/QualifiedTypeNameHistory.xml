@@ -7,7 +7,6 @@
     <fullyQualifiedTypeName name="l6.logistics.model.Parcel"/>
     <fullyQualifiedTypeName name="l8.interfaces.helper.SendGridProvider"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="java.util.Objects"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="l11.exceptions.service.OrderService"/>
@@ -17,4 +16,10 @@
     <fullyQualifiedTypeName name="model.DrinkType"/>
     <fullyQualifiedTypeName name="model.Logger"/>
     <fullyQualifiedTypeName name="model.IDrink"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="java.util.stream.Collectors"/>
+    <fullyQualifiedTypeName name="java.util.Comparator"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="config.DBContext"/>
+    <fullyQualifiedTypeName name="controllers.CourseController"/>
 </qualifiedTypeNameHistroy>

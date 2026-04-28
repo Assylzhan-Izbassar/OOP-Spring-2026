@@ -4,8 +4,6 @@
     <fullyQualifiedTypeName name="l6.logistics.model.FeatureType"/>
     <fullyQualifiedTypeName name="l8.interfaces.model.Checkout"/>
     <fullyQualifiedTypeName name="java.util.Iterator"/>
-    <fullyQualifiedTypeName name="java.util.Objects"/>
-    <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
     <fullyQualifiedTypeName name="java.io.IOException"/>
     <fullyQualifiedTypeName name="java.util.Map"/>
@@ -15,4 +13,9 @@
     <fullyQualifiedTypeName name="pattern.Observer"/>
     <fullyQualifiedTypeName name="model.Logger"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="services.RegisterCourseService"/>
+    <fullyQualifiedTypeName name="config.DBContext"/>
+    <fullyQualifiedTypeName name="services.AuthService"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
 </qualifiedTypeNameHistroy>
